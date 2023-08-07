@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+kavindapelpola:
+  name: Kavinda Pelpola
+  title: Chief Digital Officer (Atos UK&I)
+  url: https://github.com/kavindapelpola
+  image_url: https://github.com/kavindapelpola.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+kynrai:
+  name: Steven Lee
+  title: Head of Development (Atos UK&I)
+  url: https://github.com/kynrai
+  image_url: https://github.com/kynrai.png
