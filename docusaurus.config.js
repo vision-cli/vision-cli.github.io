@@ -78,30 +78,6 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/vision-cli",
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Vision CLI, Built with Docusaurus.`,
       },
       prism: {
